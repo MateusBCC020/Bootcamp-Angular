@@ -1,0 +1,9 @@
+.parallax{
+    background-image: url('https://images5.alphacoders.com/381/thumb-1920-381340.jpg');
+
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
