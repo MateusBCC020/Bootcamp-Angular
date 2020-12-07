@@ -9,8 +9,7 @@ export class FeedComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(){
+  ngOnInit() {
     window.scroll(0,0)
   }
-
 }
